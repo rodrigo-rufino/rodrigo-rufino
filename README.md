@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **TBackend Engineer** passionate about building reliable backend systems and collaborating with engineering teams.
+I'm a **Backend Engineer** passionate about building reliable backend systems and collaborating with engineering teams.
 
 - 💻 Primary stack: **Java**, **Spring Boot**, **Hibernate**, **OpenAPI**
 - 🔐 Specialized in: **Authentication and Authorization** layers for secure and scalable applications
