@@ -15,9 +15,9 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Tech Lead & Backend Engineer** passionate about building reliable backend systems and leading engineering teams.
+I'm a **Tech Lead & Backend Engineer** passionate about building reliable backend systems and collaborating with engineering teams.
 
 - 💻 Primary stack: **Java**, **Spring Boot**, **Hibernate**, **OpenAPI**
 - 🔐 Specialized in: **Authentication and Authorization** layers for secure and scalable applications
@@ -28,7 +28,7 @@ I'm a **Tech Lead & Backend Engineer** passionate about building reliable backen
   - Developer Productivity
   - Clean Architecture & Refactoring
 
-### 🌍 Find me at
+## 🌍 Find me at
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-rufino-ribeiro/" target="_blank">
