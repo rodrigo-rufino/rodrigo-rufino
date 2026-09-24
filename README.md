@@ -2,17 +2,6 @@
 
 <h1 align="center">Hey there! I'm Rodrigo Rufino 👋</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-%23300.svg?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAPI-%23007bff.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrigo-rufino&theme=solarized" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
