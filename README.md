@@ -2,8 +2,6 @@
 
 <h1 align="center">Hey there! I'm Rodrigo Rufino 👋</h1>
 
----
-
 ## 🧑‍💻 About Me
 
 I'm a **Backend Engineer** passionate about building reliable backend systems and collaborating with engineering teams.
